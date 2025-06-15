@@ -1,3 +1,5 @@
+![Cybersecurity Banner](cyber_banner.png)
+
 🛰️ CodeAlpha Internship – Task 1: Basic Network Sniffer
 
 
